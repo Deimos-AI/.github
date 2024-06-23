@@ -13,6 +13,7 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
     - [Educate](#educate)
     - [Demonstrate](#demonstrate)
     - [Dominate](#dominate)
+- [Are you ready to lead your industry into the future with confidence and innovation?](#are-you-ready-to-lead-your-industry-into-the-future-with-confidence-and-innovation)
 
 
 # Our Mission
@@ -45,9 +46,9 @@ Their capabilities and capacity to succeed.
 
 ### Dominate
 
-Your Market.
+**...YOUR Market.**
 
 
-Are you ready to lead your industry into the future with confidence and innovation?
+# Are you ready to lead your industry into the future with confidence and innovation?
 
-Let’s talk.
+Let’s talk. contact@deimosai.com
