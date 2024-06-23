@@ -2,6 +2,9 @@
 
 Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consultancy based in Nottingham, England - the Land of Robin Hood.
 
+<table>
+<tr>
+<td>
 # Table of Contents
 
 - [Welcome](#welcome)
@@ -15,7 +18,12 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
     - [Dominate](#dominate)
 - [Are you ready to lead your industry into the future with confidence and innovation?](#are-you-ready-to-lead-your-industry-into-the-future-with-confidence-and-innovation)
   - [Let’s talk...](#lets-talk)
-
+</td>
+<td>
+<img src="image.png" alt="I want AI to do my laundry" width="300" height="200">
+</td>
+</tr>
+</table>
 
 # Our Mission
 
