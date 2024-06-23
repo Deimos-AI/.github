@@ -1,6 +1,6 @@
 # Welcome
 
-Greetings, fellow purveyor of the Internet. We are Deimos AI, an AI Consultancy based in Nottingham, England - the Land of Robin Hood.
+Greetings, fellow purveyor of the Internet. We are Deimos AI, a Consultancy practise focused on ethical, effective implementations of Artificial Intelligence Technologies based in Nottingham, England - the Land of Robin Hood.
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ Their capabilities and capacity to succeed.
 
 ### Dominate
 
-**...YOUR Market.**
+***...YOUR Market.***
 
 # Are you ready to lead your industry into the future with confidence and innovation?
 
