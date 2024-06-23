@@ -14,6 +14,7 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
     - [Demonstrate](#demonstrate)
     - [Dominate](#dominate)
 - [Are you ready to lead your industry into the future with confidence and innovation?](#are-you-ready-to-lead-your-industry-into-the-future-with-confidence-and-innovation)
+  - [Let’s talk...](#lets-talk)
 
 
 # Our Mission
@@ -51,4 +52,7 @@ Their capabilities and capacity to succeed.
 
 # Are you ready to lead your industry into the future with confidence and innovation?
 
-Let’s talk. contact@deimosai.com
+## Let’s talk...
+
+contact@deimosai.com
+https://deimosai.com
