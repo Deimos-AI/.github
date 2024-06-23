@@ -1,6 +1,6 @@
 # Welcome
 
-Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consultancy based in Nottingham, England - the Land of Robin Hood.
+Greetings, fellow purveyor of the Internet. We are Deimos AI, an AI Consultancy based in Nottingham, England - the Land of Robin Hood.
 
 <table>
 <tr>
@@ -8,7 +8,7 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
 
 - [Welcome](#welcome)
 - [Our Mission](#our-mission)
-  - [The DNA of any useful technology, is human.](#the-dna-of-any-useful-technology-is-human)
+  - [The DNA of any useful technology, is human...](#the-dna-of-any-useful-technology-is-human)
   - [So it starts with you](#so-it-starts-with-you)
     - [Investigate](#investigate)
     - [Educate](#educate)
@@ -27,11 +27,9 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
 
 ... is to bring the power of this nascent technology to our clients, to make life easier, more efficient and enjoyable.
 
-## The DNA of any useful technology, is human.
+## The DNA of any useful technology, is human...
 
-We are committed to helping you, your team and your colleagues be more productive - with a side serving of job satisfaction.
-
-<img src="image.png" alt="I want AI to do my laundry" width="300" height="200">
+We are committed to helping you, your team and your colleagues be more productive - with a healthy side serving of job satisfaction.
 
 ## So it starts with you
 
@@ -54,7 +52,6 @@ Their capabilities and capacity to succeed.
 ### Dominate
 
 **...YOUR Market.**
-
 
 # Are you ready to lead your industry into the future with confidence and innovation?
 
