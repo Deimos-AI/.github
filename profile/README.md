@@ -8,11 +8,12 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
 - [Table of Contents](#table-of-contents)
 - [Our Mission](#our-mission)
   - [The DNA of any useful technology, is human.](#the-dna-of-any-useful-technology-is-human)
-  - [...starts with you](#starts-with-you)
+  - [So it starts with you](#so-it-starts-with-you)
     - [Investigate](#investigate)
     - [Educate](#educate)
     - [Demonstrate](#demonstrate)
     - [Dominate](#dominate)
+- [Are you ready to lead your industry into the future with confidence and innovation?](#are-you-ready-to-lead-your-industry-into-the-future-with-confidence-and-innovation)
 
 
 # Our Mission
@@ -25,7 +26,7 @@ We are committed to helping you, your team and your colleagues be more productiv
 
 <img src="image.png" alt="I want AI to do my laundry" width="300" height="200">
 
-## ...starts with you
+## So it starts with you
 
 Are you a business that looks to the future with glee and anticipation?
 
