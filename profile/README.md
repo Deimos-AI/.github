@@ -5,10 +5,8 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
 <table>
 <tr>
 <td>
-# Table of Contents
 
 - [Welcome](#welcome)
-- [Table of Contents](#table-of-contents)
 - [Our Mission](#our-mission)
   - [The DNA of any useful technology, is human.](#the-dna-of-any-useful-technology-is-human)
   - [So it starts with you](#so-it-starts-with-you)
@@ -19,7 +17,7 @@ Greetings, fellow purveyor of the Internet. We are Deimos AI, a startup AI Consu
 - [Are you ready to lead your industry into the future with confidence and innovation?](#are-you-ready-to-lead-your-industry-into-the-future-with-confidence-and-innovation)
   - [Let’s talk...](#lets-talk)
 </td>
-<td>
+<td valign="top">
 <img src="image.png" alt="I want AI to do my laundry" width="300" height="200">
 </td>
 </tr>
